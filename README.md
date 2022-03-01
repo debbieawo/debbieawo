@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debbieawo
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in DevOps!
 - 🌱 I’m currently learning python, AWS, and R programming
 - 💞️ I’m looking to collaborate on anything! I love learning anything and everything
 - 📫 How to reach me LinkedIn 
